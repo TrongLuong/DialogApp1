@@ -20,7 +20,7 @@ import android.widget.EditText;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import java.security.MessageDigest;
+
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
